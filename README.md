@@ -13,7 +13,7 @@
 
 ## 📄 License
 
-This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Calculator-Mobile-App/blob/main/License.txt)
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Catch-It-Mobile-Game/blob/main/License.txt)
 
 ---
 
